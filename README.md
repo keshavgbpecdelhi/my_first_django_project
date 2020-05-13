@@ -1,4 +1,9 @@
+#Django project
+
 #
+#First of all creating installing the django using python -m pip install django.
+#In my case it is already installed and we can check its version also.
+#Then follow the commands given below then you will see a folder is created with some pre-existing folders and python scripts
 #
 ![step-1](https://github.com/keshavgbpecdelhi/my_first_django_project/blob/master/Screenshot%20(41)_LI.jpg)
 
