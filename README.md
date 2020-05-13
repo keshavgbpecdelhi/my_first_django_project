@@ -14,17 +14,17 @@ Follow the steps by giving commands.
 ![step-2](https://github.com/keshavgbpecdelhi/my_first_django_project/blob/master/Screenshot%20(43).png)
 
 #
-Now this is my manage.py which I have opened in notepad++ tou can use your favorite editor.
+Now this is my manage.py which I have opened in notepad++ but you can use your favorite editor.
 #
 ![step-3](https://github.com/keshavgbpecdelhi/my_first_django_project/blob/master/Screenshot%20(44).png)
 
 #
-It is the look how our python scripts are created
+The folder name my_django is created by using the command of startapp which you can look above in cmd then all these files are autopopulated. Now, look how our python scripts are created.
 #
 ![step-4](https://github.com/keshavgbpecdelhi/my_first_django_project/blob/master/Screenshot%20(45).png)
 
 #
-Now here is what we write in h1 tag is going to be shown by using HttpResponse module.
+Now here is what we write in h1 tag is going to be shown by using HttpResponse module. This is essentially every time modification type script. Here we can create as much functions we require so as to create more pages in localhost.
 #
 ![step-5](https://github.com/keshavgbpecdelhi/my_first_django_project/blob/master/Screenshot%20(46).png)
 
