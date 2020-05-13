@@ -1,8 +1,10 @@
-Django project
+__Django project__
+
+#This is the beginners guid for working with django framework. So let's get started.
 
 #
 #
-First of all creating installing the django using python -m pip install django.
+First of all we have to install the django using python -m pip install django.
 In my case it is already installed and we can check its version also.
 Then follow the commands given below then you will see a folder is created with some pre-existing folders and python scripts
 #
