@@ -1,5 +1,8 @@
 __Django project__
 
+
+[![Beginner](https://img.shields.io/badge/Beginners-tomato.svg?style=flat&logo=git)](https://github.com/keshavgbpecdelhi)   [![Django](https://img.shields.io/badge/Django-apple.svg?style=flat&logo=git)](https://github.com/keshavgbpecdelhi)
+
 *This is the beginners guid for working with django framework. So let's get started.*
 
 #
