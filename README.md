@@ -1,6 +1,6 @@
 __Django project__
 
-#This is the beginners guid for working with django framework. So let's get started.
+*This is the beginners guid for working with django framework. So let's get started.*
 
 #
 #
